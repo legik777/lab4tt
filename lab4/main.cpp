@@ -10,6 +10,6 @@ int main(int n, char* arr[]) {
 		path_to_ftp = arr[0];
 	}
 	std::cout << path_to_ftp << std::endl;
-
+	std::cout << std::GetCurrentDir() << std::endl;
 
 }
