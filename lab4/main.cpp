@@ -11,5 +11,6 @@ int main(int n, char* arr[]) {
 	}
 	std::cout << path_to_ftp << std::endl;
 
+	std::string t = "";
 
 }
